@@ -102,6 +102,16 @@ const songList = [
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMzF8cGFkZA?workspaceId=0",
         cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
     },
+    {
+        name: "Jingle Cowbells",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNDZ8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+    },
+    {
+        name: "D.I.E",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNDV8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+    },
 
 ];
 // helper function
