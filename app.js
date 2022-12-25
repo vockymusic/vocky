@@ -25,92 +25,92 @@ const songList = [
     {
         name: "DO OR DIE",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMDl8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "SXND NXDES 2",    
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMTB8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "BONKERS",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMDd8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "SXND NXDES",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMTF8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "I dont give a Fuck",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMTN8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0",
     },
     {
         name: "Phonky Tribu",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMTl8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "Close Eyes",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMjB8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "Prince of Darkness",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMjF8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "Murder in my mind",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMjJ8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "БАСЫ ДОЛБЯТ",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMjN8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "RAVE",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMjR8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "Live Another Day",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMjZ8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "Sahara",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMjd8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "Midnight",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMjh8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "vendetta!",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMjl8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "Metamorphosis",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyMzF8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "Jingle Cowbells",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNDZ8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
     {
         name: "D.I.E",
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNDV8cGFkZA?workspaceId=0",
-        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjExNjl8cGFkZA?shareable_link=2085.png"
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
 
 ];
