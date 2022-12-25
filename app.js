@@ -162,6 +162,16 @@ const songList = [
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNzB8cGFkZA?workspaceId=0",
         cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
+    {
+        name: "Show me the will",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYzMjZ8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
+    {
+        name: "Limbo",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYzMjV8cGFkZA?workspaceId=00",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
 
 ];
 // helper function
