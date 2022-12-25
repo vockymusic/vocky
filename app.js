@@ -117,6 +117,51 @@ const songList = [
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTh8cGFkZA?workspaceId=0",
         cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
+    {
+        name: "Kitty phonk",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNjF8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
+    {
+        name: "BANKAI",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNjN8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
+    {
+        name: "Endless love",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNjR8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
+    {
+        name: "The End of Time",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNjV8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
+    {
+        name: "Showdown",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNjZ8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
+    {
+        name: "Tough Psycho",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNjd8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
+    {
+        name: "Refreshment",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNjh8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
+    {
+        name: "Dead Inside",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNjl8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
+    {
+        name: "No Love",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNzB8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
 
 ];
 // helper function
