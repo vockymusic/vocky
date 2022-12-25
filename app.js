@@ -112,6 +112,11 @@ const songList = [
         source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNDV8cGFkZA?workspaceId=0",
         cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
     },
+    {
+        name: "Silhouette",
+        source: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTh8cGFkZA?workspaceId=0",
+        cover: "https://disk.gozle.com.tm/api/v1/file-entries/download/NjYyNTJ8cGFkZA?workspaceId=0"
+    },
 
 ];
 // helper function
